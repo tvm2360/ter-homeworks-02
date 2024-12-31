@@ -47,3 +47,7 @@
 
 ![terraform output](./pix/4_Terraform_output.png)
 
+## Задание 5
+
+![terraform plan](./pix/5_Terraform_plan.png)
+
