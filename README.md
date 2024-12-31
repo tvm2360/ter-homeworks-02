@@ -39,3 +39,7 @@
 
 ![terraform plan](./pix/2_Terraform_plan.png)
 
+## Задание 3
+
+![скриншот ЛК Yandex Cloud с созданными VM](./pix/3_VM.png)
+
