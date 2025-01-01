@@ -55,3 +55,7 @@
 
 ![terraform plan](./pix/6_Terraform_plan.png)
 
+## Задание 7*
+
+![terraform console](./pix/7_Terraform_console.png)
+
