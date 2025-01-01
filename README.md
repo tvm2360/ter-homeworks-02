@@ -59,3 +59,7 @@
 
 ![terraform console](./pix/7_Terraform_console.png)
 
+## Задание 8*
+
+![terraform console](./pix/8_Terraform_console.png)
+
