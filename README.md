@@ -51,3 +51,7 @@
 
 ![terraform plan](./pix/5_Terraform_plan.png)
 
+## Задание 6
+
+![terraform plan](./pix/6_Terraform_plan.png)
+
