@@ -63,3 +63,7 @@
 
 ![terraform console](./pix/8_Terraform_console.png)
 
+## Задание 9*
+
+![terraform plan](./pix/9_Terraform_plan.png)
+
